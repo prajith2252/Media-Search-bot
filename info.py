@@ -31,12 +31,15 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Messages
 START_MSG = """
-**Hi, I'm Media Search bot**
-
+**Hi mowa, I'm Movie Search bot**
+Ikkada anni telugu movies dorukutay 
+if your movie is not there ask in our @TMAmedia group mowa
 Here you can search movie files in this bot. Just press following buttons and start searching. Kinda search button nokki kavalsina movies downlod chesko mowa.
 
-Kudirite mana tmamedia  channel ni mee freinds share chey Mowa 
+Kudirite mana tmamedia  channel ni mee freinds share chey Mowa.
+mee manchi mainishini
+ask yor doubts (@naaistam)
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
-INVITE_MSG = environ.get('INVITE_MSG', 'Please join @.... to use this bot')
+INVITE_MSG = environ.get('INVITE_MSG', 'Please join @.... to use to download mvies from bot mowa')
