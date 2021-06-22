@@ -31,9 +31,11 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Messages
 START_MSG = """
-**Hi {username}, I'm Media Search bot**
+**Hi, I'm Media Search bot**
 
-Here you can search movie files in this bot. Just press following buttons and start searching.
+Here you can search movie files in this bot. Just press following buttons and start searching. Kinda search button nokki kavalsina movies downlod chesko mowa.
+
+Kudirite mana tmamedia  channel ni mee freinds share chey Mowa 
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
